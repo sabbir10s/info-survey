@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# [Live: https://info-survey.web.app/](https://info-survey.web.app/)
 
 ## Available Scripts
 

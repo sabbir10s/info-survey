@@ -1,0 +1,35 @@
+[{
+ "id": 1,
+ "type": 1,
+ "title": "What's your phone number?",
+ "values": ""
+ },
+
+ {
+ "id": 2,
+ "type": 2,
+ "title": "What's your favourite fruit?",
+ "values": [
+{"key" : "Apple", "value": "Apple"},
+{ "key": "Orange", "value": "Orange"}
+]
+ },
+
+ {
+ "id": 3,
+ "type": 3,
+ "title": "What are your favourite hobby?",
+ "values": [
+    { "key": "Playing cricket", "value": "Playing cricket"},
+    { "key": "Reading books", "value": "Reading books"},
+    { "key": "Bycycling", "value": "Bycycling"}
+]
+ },
+
+ {
+ "id": 4,
+ "type": 1,
+ "title": "Who is your role model?",
+ "values": ""
+ }
+ ]
